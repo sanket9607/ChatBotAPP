@@ -15,6 +15,6 @@ npm run start:dev
 
 
 "# ChatBotAPP"
+![image](https://github.com/user-attachments/assets/8feabcc2-c801-421d-b726-dcc352a3d0d5)
 
-![Screenshot 2025-01-21 000714](https://github.com/user-attachments/assets/66b4f700-cda4-4758-9769-ffb4589ce72a)
-![Screenshot 2025-01-21 000826](https://github.com/user-attachments/assets/5e5e0ac4-e57e-430c-9f14-d2089248f302)
+![image2](https://github.com/user-attachments/assets/4841bdb8-6fbe-458e-a3b1-490961ff1c7b)
